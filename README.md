@@ -1,7 +1,7 @@
  #### ![MasterHead](https://github.com/GauravRajpoot/GauravRajpoot/blob/main/SB2.JPG?raw=true)
 
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">, I'm Gaurav</h1>
-<h3 align="center">A Data science enthusiast</h3>
+<h3 align="center">A Tech enthusiast</h3>
   
 Loves to explore new tools and technology, Currently I am working as a Automation Test Developer, for more detail please have a look on [My Portfolio](https://gauravrajpoot.github.io/my_portfolio/).
 
