@@ -14,7 +14,7 @@ Loves to explore new tools and technology, Currently I am working as a Automatio
 - 🔭 I’m currently working at @Nagarro
 - 🌱 I’m currently learning **Data science**
 - 💬 Ask me about **Automation and machine learning**
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](https://github.com/GauravRajpoot/GauravRajpoot/blob/main/My_Resume.pdf)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: gaurav27rajpoot@gmail.com.
 - 😄 Pronouns: Explorer, Gaurav, Rajpoot.
